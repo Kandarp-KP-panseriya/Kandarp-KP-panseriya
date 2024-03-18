@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kandarp-KP-panseriya
-- 👀 I’m interested in Development
-- 🌱 I’m currently learning MCA
-- 💞️ I’m looking to collaborate on Software 
+- 👀 I’m interested in Backend Development
+- 🌱 I’m MCA Student
+- 💞️ I’m looking For Job 
 - 📫 How to reach me kandarppanseriya260@gmail.com
 
 <!---
